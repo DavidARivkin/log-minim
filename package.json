@@ -1,0 +1,9 @@
+{
+  "name": "log-minim",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "./dist/log.js",
+  "dependencies": {
+    "loglevel": "^1.2.0"
+  }
+}
